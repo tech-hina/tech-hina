@@ -1,14 +1,14 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=35&duration=3000&pause=1000&color=CDA8FF&center=true&vCenter=true&width=600&lines=Hello%2C+welcome+to+my+profile!;I'm+Hina;Learning+and+building+my+future." alt="Animated introduction"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fredoka&weight=700&size=35&duration=3000&pause=1000&color=CDA8FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile!;Learning+and+building+my+future." alt="Animated introduction"/>
 
 </div>
 
 <br>
 
 <div align="center">
-  <img src="./assets/github-banner%20(1).gif" width="100%" alt="Purple coding banner"/>
+  <img src="./assets/github-banner%20(1).gif" width="80%" alt="Purple coding banner"/>
 </div>
 
 <br>
@@ -42,6 +42,12 @@
   <img src="https://img.shields.io/badge/C++-51316E?style=for-the-badge&logo=cplusplus&logoColor=E9D9FF"/>
   <img src="https://img.shields.io/badge/SQL-51316E?style=for-the-badge&logo=mysql&logoColor=E9D9FF"/>
 
+</div>
+
+<br>
+
+<div align="center">
+  <img src="./assets/id-card-scene%20(3).svg" width="700" alt="Hina ID card"/>
 </div>
 
 <br>
