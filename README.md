@@ -25,7 +25,7 @@
 
 <p align="center">
   I'm a student passionate about technology and programming.<br>
-  When I'm not coding, I love reading and playing videogames. 
+  When I'm not coding, you'll usually find me reading or playing videogames.<br>
   I'm always eager to learn more.
 </p>
 
