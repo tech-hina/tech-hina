@@ -25,9 +25,8 @@
 
 <p align="center">
   I'm a student passionate about technology and programming.<br>
-  I'm currently learning <b>C</b> and <b>C++</b>, and I'll be starting <b>SQL</b> soon.<br>
-  I'm also looking forward to exploring more programming languages<br>
-  and developing new skills.
+  When I'm not coding, I love reading and playing videogames. 
+  I'm always eager to learn more.
 </p>
 
 <br>
